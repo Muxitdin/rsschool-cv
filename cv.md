@@ -2,13 +2,19 @@
 
 ## Contact Information
 
-
-- Location: Tashkent, Uzbekistan 
-- Email: tornadomuhitdin@yandex.com 
-- Phone: +998992263026  
-- GitHub: [github.com/Muxitdin](https://github.com/Muxitdin)
-- LinkedIn: [linkedin.com/in/muhitdin-nuritdinov-9405a829a](https://www.linkedin.com/in/muhitdin-nuritdinov-9405a829a/)
-- Telegram: [t.me/nuritdinovm](https://t.me/nuritdinovm)
+<table>
+  <tr>
+    <td>
+      Location: Tashkent, Uzbekistan <br>
+      Email: tornadomuhitdin@yandex.com <br>
+      Phone: +998992263026 <br>
+      🔗 <a href="https://github.com/Muxitdin">GitHub</a> | <a href="https://www.linkedin.com/in/muhitdin-nuritdinov-9405a829a/">LinkedIn</a> | <a href="https://t.me/nuritdinovm">Telegram</a>
+    </td>
+    <td style="text-align: right;">
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQFe1Rh7UQjjqA/profile-displayphoto-crop_800_800/B4DZemlrgZGkAI-/0/1750846585435?e=1761177600&v=beta&t=xtcuzADQeDuxLSD34x3tO8ftrW_fpSShWo3Yw9ZfMIo" alt="Profile Photo" width="120"/>
+    </td>
+  </tr>
+</table>
 
 ## Self-Introduction
 
