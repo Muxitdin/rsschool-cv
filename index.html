@@ -1,10 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Nuritdinov Muxitdin — CV</title>
+    <link rel="stylesheet" href="./style.css">
 </head>
 <body>
-$END$
+<header class="site-header">
+    <div class="container header-inner">
+        <div class="brand">
+            <h1>Nuritdinov Muxitdin</h1>
+            <p class="role">Fullstack JavaScript Developer</p>
+        </div>
+        <nav>
+            <ul class="nav-list">
+                <li><a href="#">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#education">Education</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main class="container">
+    <section id="about" class="card about">
+        <div class="about-grid">
+            <div class="about-left">
+                <h2>Self-introduction</h2>
+                <p>Motivated and detail-oriented Fullstack JavaScript Developer with a strong foundation in building
+                    scalable web applications. I prioritize clean, maintainable code and effective collaboration.</p>
+                <ul class="facts">
+                    <li>Age: 18</li>
+                    <li>English: C1</li>
+                    <li>Russian: C1</li>
+                    <li>Uzbek: C1 (native)</li>
+                </ul>
+            </div>
+            <div class="about-right">
+                <img class="avatar"
+                     src="https://media.licdn.com/dms/image/v2/D4D03AQFe1Rh7UQjjqA/profile-displayphoto-crop_800_800/B4DZemlrgZGkAI-/0/1750846585435?e=1761177600&v=beta&t=xtcuzADQeDuxLSD34x3tO8ftrW_fpSShWo3Yw9ZfMIo"
+                     alt="Nuritdinov Muxitdin portrait" width="160">
+
+                <ul class="contact-list">
+                    <li><h2>Contact Information</h2></li>
+                    <li>Location: Tashkent, Uzbekistan</li>
+                    <li>Email: <a href="mailto:tornadomuhitdin@yandex.com">tornadomuhitdin@yandex.com</a></li>
+                    <li>Phone: +998992263026</li>
+                    <li>GitHub: <a href="https://github.com/Muxitdin" target="_blank"
+                                   rel="noopener">github.com/Muxitdin</a></li>
+                    <li>LinkedIn: <a href="https://www.linkedin.com/in/muhitdin-nuritdinov-9405a829a/" target="_blank"
+                                     rel="noopener">linkedin.com</a></li>
+                    <li>Telegram: <a href="https://t.me/nuritdinovm" target="_blank" rel="noopener">@nuritdinovm</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section id="skills" class="card">
+        <h2>Skills</h2>
+        <ul class="skills-list">
+            <li>Languages: <b>JavaScript</b>, <b>TypeScript</b>, <b>HTML</b>, <b>CSS</b></li>
+            <li>Frameworks &amp; Libraries: <b>React</b>, <b>Next.js</b>, <b>Node.js</b> &amp; <b>Express</b>, <b>NestJS</b></li>
+            <li>Databases: <b>MongoDB</b>, <b>PostgreSQL</b>, <b>TypeORM</b>, <b>Mongoose</b></li>
+            <li>Methodologies: <b>REST API</b> design</li>
+            <li>Version Control: <b>Git</b>, <b>GitHub</b>, <b>GitLab</b></li>
+            <li>Tools: <b>VS Code</b>, <b>WebStorm</b>, <b>Postman</b></li>
+        </ul>
+    </section>
+
+    <section id="code-example" class="card">
+        <h2>Code example</h2>
+        <p>Solution from a Codewars kata using plain JavaScript.</p>
+        <pre><code>function greet(language) {
+  db = {
+    english: "Welcome",
+    czech: "Vitejte",
+    danish: "Velkomst",
+    dutch: "Welkom",
+    estonian: "Tere tulemast",
+    finnish: "Tervetuloa",
+    flemish: "Welgekomen",
+    french: "Bienvenue",
+    german: "Willkommen",
+    irish: "Failte",
+    italian: "Benvenuto",
+    latvian: "Gaidits",
+    lithuanian: "Laukiamas",
+    polish: "Witamy",
+    spanish: "Bienvenido",
+    swedish: "Valkommen",
+    welsh: "Croeso",
+}
+  let res = "";
+  for(let [key, value] of Object.entries(db)){
+    if(key === language){
+      res = value;
+    }
+  }
+  return res !== "" ? res : "Welcome"
+}
+</code></pre>
+        <p class="small-note">See original task: <a href="https://www.codewars.com/kata/577ff15ad648a14b780000e7"
+                                                    target="_blank" rel="noopener">Codewars kata</a></p>
+    </section>
+
+    <section id="projects" class="card">
+        <h2>Projects</h2>
+        <ol class="projects-list">
+            <li><a href="https://github.com/Muxitdin/whitecab_backend/tree/nopass" target="_blank" rel="noopener">WhiteCab
+                Yandex TaxiPark - Backend</a></li>
+            <li><a href="https://github.com/Muxitdin/crowshop_backend" target="_blank" rel="noopener">CrowShop
+                Backend</a></li>
+            <li><a href="https://github.com/Muxitdin/sovchiconnect_backend" target="_blank" rel="noopener">SovchiConnect
+                Backend</a></li>
+            <li><a href="https://github.com/Muxitdin/freegram_frontend" target="_blank" rel="noopener">FreeGram
+                Frontend</a></li>
+            <li><a href="https://github.com/Muxitdin/promptopia_frontend" target="_blank" rel="noopener">Promptopia
+                Frontend</a></li>
+        </ol>
+    </section>
+
+    <section id="experience" class="card">
+        <h2>Work Experience</h2>
+        <article>
+            <h3>Fullstack Web Developer — United IT Clubs</h3>
+            <p>05.2022 - 11.2023. Worked on e-commerce platforms, admin dashboards, and Telegram bots. Technologies:
+                React, Node.js, Express, MongoDB, TypeScript.</p>
+        </article>
+        <article>
+            <h3>FullStack Software Engineer — DasturX</h3>
+            <p>01.2024 - 05.2025. Built web applications, authentication with JWT, RESTful APIs, SPAs using React.</p>
+        </article>
+        <article>
+            <h3>Telegram Bot Developer — Freelance</h3>
+            <p>03.2025 - 08.2025. Developed Telegram bots with Telegraf.js, webhooks, and database integrations.</p>
+        </article>
+    </section>
+
+    <section id="education" class="card">
+        <h2>Education</h2>
+        <p>IT Park University in Tashkent (2025 - 2029). Bachelor's degree in Software Engineering. Relevant coursework:
+            <b>Data Structures and Algorithms</b>, <b>OOP</b>, <b>Databases</b>, <b>FullStack Web Development</b>.</p>
+    </section>
+
+</main>
+
+<footer class="site-footer">
+    <div class="container footer-inner">
+        <div class="footer-left">
+            <a href="https://github.com/Muxitdin" target="_blank" rel="noopener">@Muxitdin</a>
+            <span> — 2025 year</span>
+        </div>
+        <div class="footer-right">
+            <a href="https://rs.school/courses/short-track" target="_blank" rel="noopener">
+            <img src="https://raw.githubusercontent.com/rolling-scopes-school/qualifying-stage/0c72d034ad1a7cd89cd58f2b64a25b5e24e4e305/tasks/cv/images/rs-school-logo.svg" alt="RS School logo" class="rs-logo">
+            </a>
+        </div>
+    </div>
+</footer>
 </body>
 </html>
