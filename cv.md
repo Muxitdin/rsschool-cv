@@ -34,41 +34,9 @@
 - **Methodologies**: REST API design
 - **Version Control**: Git, GitHub, GitLab
 - **Development Tools**: VS Code, Web Storm, Postman, MongoDB Compass
-<!-- 
-## Code Example from Codewars
-[this is the link to the task from Codewars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
-
-#### Solution: 
-```JavaScript
-function greet(language) {
-  db = { 
-    english: "Welcome",
-    czech: "Vitejte",
-    danish: "Velkomst",
-    dutch: "Welkom",
-    estonian: "Tere tulemast",
-    finnish: "Tervetuloa",
-    flemish: "Welgekomen",
-    french: "Bienvenue",
-    german: "Willkommen",
-    irish: "Failte",
-    italian: "Benvenuto",
-    latvian: "Gaidits",
-    lithuanian: "Laukiamas",
-    polish: "Witamy",
-    spanish: "Bienvenido",
-    swedish: "Valkommen",
-    welsh: "Croeso",
-}
-  let res = "";
-  for(let [key, value] of Object.entries(db)){
-    if(key === language){
-      res = value;
-    }
-  }
-  return res !== "" ? res : "Welcome"
-}
-``` -->
+- **Telegram**: Telegraf.js, GrammyJS, Telegram API
+- **Other**: Docker, Heroku, Netlify, Vercel, Render
+- **Soft Skills**: Teamwork, Communication, Problem Solving, Adaptability, Time Management, Responsibility
 
 ## Work Experience
 
@@ -108,10 +76,6 @@ function greet(language) {
 - Relevant coursework: <b>Data Structures </b>and <b>Algorithms</b>, <b>Object-Oriented Programming</b>, <b>Database Management Systems</b>, <b>FullStack Web Development</b>, <b>Software Engineering</b>, and <b>Computer Networks</b>.
 
 ## Projects
-<!-- 
-**```**
-Note: All the projects listed here were made fully by myself and are placed on GitHub and are open-source, links are clickable.
-**```** -->
 
 #### [WhiteCab Yandex TaxiPark - Backend : https://github.com/Muxitdin/whitecab_backend/tree/nopass](https://github.com/Muxitdin/whitecab_backend/tree/nopass)
 - Backend service with Telegram bot integration.  
