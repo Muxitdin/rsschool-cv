@@ -1,4 +1,4 @@
-# Nuritdinov Muxitdin Bexzodovich
+# Nuritdinov Mukhitdin Bekhzodovich
 
 ## Contact Information
 
@@ -29,12 +29,12 @@
 
 ## Skills
 - **Languages**: JavaScript, TypeScript, HTML, CSS
-- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, TailwindCSS
+- **Frameworks & Libraries**: React, Next.js, Node.js, Express.js, Nest.js, TailwindCSS
 - **Databases**: MongoDB, PostgreSQL
 - **Methodologies**: REST API design
 - **Version Control**: Git, GitHub, GitLab
 - **Development Tools**: VS Code, Web Storm, Postman, MongoDB Compass
-
+<!-- 
 ## Code Example from Codewars
 [this is the link to the task from Codewars](https://www.codewars.com/kata/577ff15ad648a14b780000e7)
 
@@ -68,7 +68,7 @@ function greet(language) {
   }
   return res !== "" ? res : "Welcome"
 }
-```
+``` -->
 
 ## Work Experience
 
@@ -104,58 +104,58 @@ function greet(language) {
 
 #### IT Park University in Tashkent (2025 - 2029)
 
-- Bachelor's degree in Software Engineering
-- Relevant coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Management Systems, FullStack Web Development, Software Engineering, and Computer Networks.
+- Bachelor's degree in <b>Software Engineering</b>
+- Relevant coursework: <b>Data Structures </b>and <b>Algorithms</b>, <b>Object-Oriented Programming</b>, <b>Database Management Systems</b>, <b>FullStack Web Development</b>, <b>Software Engineering</b>, and <b>Computer Networks</b>.
 
 ## Projects
-
+<!-- 
 **```**
 Note: All the projects listed here were made fully by myself and are placed on GitHub and are open-source, links are clickable.
-**```**
+**```** -->
 
-#### [WhiteCab Yandex TaxiPark - Backend](https://github.com/Muxitdin/whitecab_backend/tree/nopass)
+#### [WhiteCab Yandex TaxiPark - Backend : https://github.com/Muxitdin/whitecab_backend/tree/nopass](https://github.com/Muxitdin/whitecab_backend/tree/nopass)
 - Backend service with Telegram bot integration.  
 - Implemented email verification via unique links.  
 - REST API for handling users, drivers, and fleet data.  
 - Node.js + Express + MongoDB stack.  
 
-#### [CrowShop Backend](https://github.com/Muxitdin/crowshop_backend)
+#### [CrowShop Backend : https://github.com/Muxitdin/crowshop_backend](https://github.com/Muxitdin/crowshop_backend)
 - Backend for an online clothing store.  
 - Implemented product and order management system.  
 - Integrated Stripe for secure payments.  
 - Designed scalable API architecture.
 
-#### [SovchiConnect Backend](https://github.com/Muxitdin/sovchiconnect_backend)
+#### [SovchiConnect Backend : https://github.com/Muxitdin/sovchiconnect_backend](https://github.com/Muxitdin/sovchiconnect_backend)
 - Backend for a dating platform with real-time chat.  
 - Implemented secure user authorization.  
 - Chat and messaging system with database persistence.  
 - Optimized for scalability and performance.  
 
-#### [FreeGram Frontend](https://github.com/Muxitdin/freegram_frontend)
+#### [FreeGram Frontend : https://github.com/Muxitdin/freegram_frontend](https://github.com/Muxitdin/freegram_frontend)
 - Frontend client for a real-time chat application (Telegram alternative, clone).  
 - Built with React and Socket.io for live messaging.  
 - User-friendly interface with chat and group support.  
 - Connected to a secure backend API.  
 
-#### [FreeGram Backend](https://github.com/Muxitdin/freegram_backend)
+#### [FreeGram Backend : https://github.com/Muxitdin/freegram_backend](https://github.com/Muxitdin/freegram_backend)
 - Backend for chat application with SMS OTP-based authentication.  
 - WebSocket (Socket.io) integration for real-time chat.  
 - Scalable architecture to handle multiple conversations.  
 - Node.js + Express + MongoDB.  
 
-#### [Promptopia Frontend](https://github.com/Muxitdin/promptopia_frontend)
+#### [Promptopia Frontend : https://github.com/Muxitdin/promptopia_frontend](https://github.com/Muxitdin/promptopia_frontend)
 - Social platform for posting, editing, and managing prompts.  
 - Built with Next.js for SSR and client-side rendering.  
 - TailwindCSS for modern UI/UX.
 - Connected with backend APIs for authentication and data storage.
 
-#### [Promptopia Backend](https://github.com/Muxitdin/promptopia_backend)
+#### [Promptopia Backend : https://github.com/Muxitdin/promptopia_backend](https://github.com/Muxitdin/promptopia_backend)
 - Server-side app with media upload support via Multer.  
 - REST API for managing posts and users.  
 - Node.js + Express backend with secure endpoints.  
 - Designed for integration with Promptopia frontend.  
 
-#### [WhiteCab Registration Helper Bot](https://github.com/Muxitdin/whitecab-reg-helper_bot)
+#### [WhiteCab Registration Helper Bot : https://github.com/Muxitdin/whitecab-reg-helper_bot](https://github.com/Muxitdin/whitecab-reg-helper_bot)
 - Telegram bot automating driver registration process.  
 - Collects driver documents and sends them to admins.  
 - Inline buttons for admin-driven workflow management.  
