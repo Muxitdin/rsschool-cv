@@ -8,7 +8,9 @@
       Location: Tashkent, Uzbekistan <br>
       Email: tornadomuhitdin@yandex.com <br>
       Phone: +998992263026 <br>
-      🔗 <a href="https://github.com/Muxitdin">GitHub</a> | <a href="https://www.linkedin.com/in/muhitdin-nuritdinov-9405a829a/">LinkedIn</a> | <a href="https://t.me/nuritdinovm">Telegram</a>
+      🔗 GitHub: <a href="https://github.com/Muxitdin">github.com/Muxitdin</a> <br> 
+      🔗 LinkedIn: <a href="https://www.linkedin.com/in/muhitdin-nuritdinov-9405a829a/">linkedin.com/in/muhitdin-nuritdinov-9405a829a</a> <br> 
+      🔗 Telegram: <a href="https://t.me/nuritdinovm">t.me/nuritdinovm</a>
     </td>
     <td style="text-align: right;">
       <img src="https://media.licdn.com/dms/image/v2/D4D03AQFe1Rh7UQjjqA/profile-displayphoto-crop_800_800/B4DZemlrgZGkAI-/0/1750846585435?e=1761177600&v=beta&t=xtcuzADQeDuxLSD34x3tO8ftrW_fpSShWo3Yw9ZfMIo" alt="Profile Photo" width="120"/>
