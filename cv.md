@@ -13,7 +13,7 @@
       🔗 Telegram: <a href="https://t.me/nuritdinovm">t.me/nuritdinovm</a>
     </td>
     <td style="text-align: right;">
-      <img src="https://media.licdn.com/dms/image/v2/D4D03AQFe1Rh7UQjjqA/profile-displayphoto-crop_800_800/B4DZemlrgZGkAI-/0/1750846585435?e=1761177600&v=beta&t=xtcuzADQeDuxLSD34x3tO8ftrW_fpSShWo3Yw9ZfMIo" alt="Profile Photo" width="120"/>
+      <img src="https://media.licdn.com/dms/image/v2/D4D03AQFe1Rh7UQjjqA/profile-displayphoto-crop_800_800/B4DZemlrgZGkAI-/0/1750846585435?e=1764201600&v=beta&t=aCJMfPhNFwweRS33TSnzhx3tdPYY9xbZGv7d3yJhkk8" alt="Profile Photo" width="120"/>
     </td>
   </tr>
 </table>
@@ -72,7 +72,7 @@
 
 ## Education
 
-#### IT Park University in Tashkent (2025 - 2029)
+#### Epam University || IT Park University in Tashkent (2025 - 2029)
 
 - Bachelor's degree in <b>Software Engineering</b>
 - Relevant coursework: <b>Data Structures </b>and <b>Algorithms</b>, <b>Object-Oriented Programming</b>, <b>Database Management Systems</b>, <b>FullStack Web Development</b>, <b>Software Engineering</b>, and <b>Computer Networks</b>.
